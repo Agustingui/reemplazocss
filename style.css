@@ -1,0 +1,31 @@
+body{
+    min-height: 100vh;
+    margin: 0;
+    background: linear-gradient(90deg, #020024 0%, rgba(9, 9, 121, 1) 35%, rgba(9, 9, 121, 1) 65%, rgba(2, 0, 36, 1) 100%);
+
+}
+
+.barra{
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+    box-sizing: border-box;
+    color: white;
+}
+
+.verde{
+    background-color: green;
+}
+
+.naranja{
+    background-color: orange;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.negro{
+    background-color: black;
+}
